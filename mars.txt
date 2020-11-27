@@ -1,5 +1,8 @@
 Cold and dry, but everything is my favourite colour.
 The two moons may be a problem for Wolfman.
 Mummy may enjoy the cold.
+<<<<<<< HEAD
 This line to mess with git from Mitch
 Messing with the file - mitch
+This is a change made by Hazel
+Adding a line to mess with git from Mitch
